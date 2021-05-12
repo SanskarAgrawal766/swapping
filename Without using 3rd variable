@@ -9,5 +9,5 @@ a=a+b;
 b=a-b;
 a=a-b;
 
-printf("The swapped values of a and b are %d and %d", &a ,&b);
+printf("The swapped values of a and b are %d and %d",a,b);
 }
